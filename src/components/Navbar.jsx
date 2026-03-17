@@ -72,7 +72,7 @@ export default function Navbar() {
         ))}
 
         <a
-          href="/portfolioCa/AmanCv.pdf"
+          href="/amancv.pdf"
           download
           className="btn-primary"
           style={{ marginLeft: 8, padding: '8px 18px', fontSize: '0.82rem' }}
@@ -124,7 +124,7 @@ export default function Navbar() {
           ))}
 
           <a
-            href="/portfolioCa/AmanCv.pdf"
+            href="/amancv.pdf"
             download
             className="btn-primary"
             style={{ textAlign: 'center', marginTop: 8 }}
